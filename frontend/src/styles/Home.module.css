@@ -1,0 +1,30 @@
+/* Home.module.css */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.instructions {
+  margin-bottom: 20px;
+}
+
+.countdown {
+  margin-bottom: 20px;
+}
+
+.paymentForm {
+  margin-bottom: 20px;
+}
+
+.keyForm {
+  margin-bottom: 20px;
+}
+
+.rulesBroken {
+  color: red;
+  margin-top: 20px;
+}
